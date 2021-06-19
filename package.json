@@ -1,0 +1,31 @@
+{
+  "_from": "bhadoojs",
+  "_id": "bhadoojs@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-IzZyJp/4tY9o6W7z7n1xV53XMzq79mWFCje3w2J2c5soSxY7VDJgJdKQup4u9dWrPsvB/ercag9235GAku9gqA==",
+  "_location": "/bhadoojs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "bhadoojs",
+    "name": "bhadoojs",
+    "escapedName": "bhadoojs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bhadoojs/-/bhadoojs-1.0.0.tgz",
+  "_shasum": "f42e7345666ab8b49a6d5741146a7c9078b534aa",
+  "_spec": "bhadoojs",
+  "_where": "C:\\Users\\Amirul Islam",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "name": "bhadoojs",
+  "version": "1.0.0"
+}
